@@ -4,8 +4,7 @@ Python pystun and socket
 UDP
 ---
   Client 1
-    A STUN client for connecting to public stun server and getting public IP and Port.
-    It's a UDP server.
+    A STUN client for getting public IP and Port. And It's a UDP server.
     
     
         $ python UDP/client1.py
